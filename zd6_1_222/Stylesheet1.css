@@ -1,0 +1,92 @@
+﻿^contentpage {
+    background-color: #696969;
+}
+
+.PageBackgroundColor {
+    background-color: black;
+}
+
+#header {
+    font-size: 32;
+    font-weight: bolder;
+    color: black;
+}
+
+
+Button {
+    background-color: red;
+    color: white;
+}
+
+label {
+    color: white;
+}
+
+.LabelTextColor {
+    color: black;
+}
+
+.EnrtyStyle {
+    font-size: 16;
+    background-color: white;
+}
+
+#styleforIvansk {
+    font-size: 16;
+    background-color: white;
+    color: black;
+}
+
+#styleforIvansk2 {
+    font-size: 16;
+    background-color: black;
+    color: white;
+}
+
+Picker {
+    background-color: #87CEFA;
+}
+
+    Picker item {
+        background-color: white;
+    }
+
+#stylebut {
+    color: white;
+    font-family: Consolas;
+    font-size: 18;
+    font-style: bold;
+    background: linear-gradient(180deg, rgb(242, 24, 155) 0%,rgb(255, 0, 0) 100%);
+    border-radius: 50;
+}
+
+#stylebut2 {
+    color: black;
+    font-family: Consolas;
+    font-size: 18;
+    font-style: bold;
+    background: #d7d7d7;
+    border-radius: 50;
+}
+
+#stylebut3 {
+    color: black;
+    font-family: Consolas;
+    font-size: 18;
+    font-style: bold;
+    background: white;
+    border-radius: 50;
+    border-width: 3.0;
+    border-color: orangered;
+}
+
+#stylebut4 {
+    color: orangered;
+    font-family: Consolas;
+    font-size: 18;
+    font-style: bold;
+    background: white;
+    border-radius: 50;
+    border-width: 3.0;
+    border-color: orangered;
+}
